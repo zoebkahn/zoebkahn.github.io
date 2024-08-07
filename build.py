@@ -196,7 +196,7 @@ def add_links(html, links):
 def build_index(profile_json, news_json, pubs_json, students_json, links):
     body_html =  "<body>\n"
     body_html += "<div class='title'><h1>Zoe Kahn</h1></div>\n"
-    body_html += "<div class='subtitle'><h2><a href='resume.pdf', download='EmilyAikenResume.pdf'>CV</a> | <a href='https://scholar.google.com/citations?user=tsX7at8AAAAJ&hl=en'>Google Scholar</a> | <a href='https://github.com/zobkahn'>GitHub</a> | <a href='mailto:zkahn@berkeley.edu'>zkahn@berkeley.edu</a></h2></div>\n"
+    body_html += "<div class='subtitle'><h2><a href='resume.pdf', download='EmilyAikenResume.pdf'>CV</a> | <a href='https://scholar.google.com/citations?user=tsX7at8AAAAJ&hl=en'>Google Scholar</a> | <a href='mailto:zkahn@berkeley.edu'>zkahn@berkeley.edu</a></h2></div>\n"
     body_html += "<div class=\"hbar\"></div>\n"
     body_html += build_profile(profile_json)
     body_html += build_news(news_json, 5, False)
