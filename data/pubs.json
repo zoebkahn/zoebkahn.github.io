@@ -12,14 +12,14 @@
         "selected"  : true
     },
     {
-        "title"     : "Machine learning and phone data can improve targeting of humanitarian aid.",
-        "conference": "Nature 603, No. 7903 (2022).<span style='color:#ab891c'><br/>&#9733; Cover article</span>",
-        "authors"   : "<b>E. Aiken</b>, S. Bellue, D. Karlan, C. Udry, and J. Blumenstock.",
-        "link"      : "https://www.nature.com/articles/s41586-022-04484-9",
-        "code"     : "https://github.com/emilylaiken/togo-targeting-replication",
-        "talk"    : "https://www.youtube.com/watch?v=Nl0GnJp9pqI&list=PLaFy9toa8O6PVA1kDfvgTRrIyoSYvZQjV&index=2",
+        "title"     : "When users control the algorithms: values expressed in practices on twitter.",
+        "conference": "Computer-Supported Cooperative Work (CSCW)(2019).",
+        "authors"   : "Jenna Burrell, <b>Zoe Kahn</b>, Anne Jonas, and Daniel Griffin.",
+        "link"      : "https://dl.acm.org/doi/pdf/10.1145/3443705",
+        "code"     : "",
+        "talk"    : "",
         "extra"    : "",
-        "early"    : "<b>Early versions:</b> <a href='https://www.nber.org/papers/w29070'>NBER Working Paper</a> No. 29070 (2022).",
+        "early"    : "",
         "section"   : "Journal Articles and Conference Proceedings",
         "selected"  : true
     }
