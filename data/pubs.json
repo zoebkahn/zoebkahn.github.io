@@ -1,7 +1,7 @@
 [
     {
         "title"     : "Expanding Perspectives on Data Privacy:Insights from Rural Togo.",
-        "conference": "Computer Supported Cooperative Work (CSCW)(Under Review).",
+        "conference": "Computer Supported Cooperative Work (CSCW)<i>(Under Review)<i>.",
         "authors"   : "<b>Zoe Kahn</b>, Meybinesso Farida Carelle PERE, Emily Aiken, Nitin Kohli, and Joshua Blumenstock.",
         "link"      : "",
         "code"     : "",
@@ -13,7 +13,7 @@
     },
     {
         "title"     : "Responsible AI Maturity Model.",
-        "conference": "Computer Supported Cooperative Work (CSCW)(Under Review).",
+        "conference": "Computer Supported Cooperative Work (CSCW) <i>(Under Review)<i>.",
         "authors"   : "Amy Heger, Samir Passi, Shipi Dhanorkar, <b>Zoe Kahn</b>, Ruotong Wang, and Mihaela Vorvoreanu.",
         "link"      : "",
         "code"     : "",
@@ -24,7 +24,7 @@
         "selected"  : true
     },
     {
-        "title"     : "A sociocultural explanation of Internet-enabled work in rural regions.",
+        "title"     : "A Sociocultural Explanation of Internet-Enabled Work in Rural Regions.",
         "conference": "TOCHI Special Issue on Rural Computing (2021).",
         "authors"   : "<b>Zoe Kahn</b> and Jenna Burrell.",
         "link"      : "https://dl.acm.org/doi/pdf/10.1145/3443705",
@@ -36,8 +36,8 @@
         "selected"  : true
     },
     {
-        "title"     : "When users control the algorithms: values expressed in practices on twitter.",
-        "conference": "Computer Supported Cooperative Work (CSCW)(2019).",
+        "title"     : "When Users Control The Algorithms: Values Expressed in Practices on Twitter.",
+        "conference": "Computer Supported Cooperative Work (CSCW) (2019).",
         "authors"   : "Jenna Burrell, <b>Zoe Kahn</b>, Anne Jonas, and Daniel Griffin.",
         "link"      : "https://dl.acm.org/doi/pdf/10.1145/3359240",
         "code"     : "",
