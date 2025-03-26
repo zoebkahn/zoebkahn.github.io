@@ -1,4 +1,16 @@
 [
+   {
+        "title"     : "Responsible AI Maturity Model.",
+        "conference": "Computer Supported Cooperative Work (CSCW) (2025, accepted).",
+        "authors"   : "Amy Heger, Samir Passi, Shipi Dhanorkar, <b>Zoe Kahn</b>, Ruotong Wang, and Mihaela Vorvoreanu.",
+        "link"      : "https://www.microsoft.com/en-us/research/publication/responsible-ai-maturity-model/",
+        "code"     : "",
+        "talk"    :  "https://www.microsoft.com/en-us/research/video/lightning-talks-responsible-ai-the-challenge-of-big-models/",
+        "extra"    : "",
+        "early"    : "",
+        "section"   : "Journal Articles and Conference Proceedings",
+        "selected"  : true
+    },
     {
         "title"     : "Provocation on Expertise in Social Impact Evaluations for Generative AI (and Beyond).",
         "conference": "Conference on Neural Information Processing Systems (NerIPS) (2024).",
@@ -18,19 +30,6 @@
         "link"      : "",
         "code"     : "",
         "talk"    : "",
-        "extra"    : "",
-        "early"    : "",
-        "section"   : "Journal Articles and Conference Proceedings",
-        "selected"  : true
-    },
-
-    {
-        "title"     : "Responsible AI Maturity Model.",
-        "conference": "(submitted).",
-        "authors"   : "Amy Heger, Samir Passi, Shipi Dhanorkar, <b>Zoe Kahn</b>, Ruotong Wang, and Mihaela Vorvoreanu.",
-        "link"      : "https://www.microsoft.com/en-us/research/publication/responsible-ai-maturity-model/",
-        "code"     : "",
-        "talk"    :  "https://www.microsoft.com/en-us/research/video/lightning-talks-responsible-ai-the-challenge-of-big-models/",
         "extra"    : "",
         "early"    : "",
         "section"   : "Journal Articles and Conference Proceedings",
