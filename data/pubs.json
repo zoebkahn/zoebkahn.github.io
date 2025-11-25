@@ -1,4 +1,16 @@
 [
+    {
+        "title"     : "Digital Social Protection and Social Cohesion: The Role of Human Intermediaries in Rural Togo.",
+        "conference": "(submitted).",
+        "authors"   : "<b>Zoe Kahn</b>.",
+        "link"      : "",
+        "code"     : "",
+        "talk"    : "",
+        "extra"    : "",
+        "early"    : "",
+        "section"   : "Journal Articles and Conference Proceedings",
+        "selected"  : true
+    },
    {
         "title"     : "Responsible AI Maturity Model.",
         "conference": "Computer Supported Cooperative Work (CSCW) (2025, accepted).",
@@ -21,18 +33,6 @@
         "extra"    : "",
         "early"    : "",
         "section"   : "Workshop Papers",
-        "selected"  : true
-    },
-    {
-        "title"     : "Digital Social Protection and Social Cohesion: The Role of Human Intermediaries in Rural Togo.",
-        "conference": "(submitted).",
-        "authors"   : "<b>Zoe Kahn</b>.",
-        "link"      : "",
-        "code"     : "",
-        "talk"    : "",
-        "extra"    : "",
-        "early"    : "",
-        "section"   : "Journal Articles and Conference Proceedings",
         "selected"  : true
     },
     {
